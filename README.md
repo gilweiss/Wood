@@ -7,12 +7,12 @@ it is hard to efficiently divide size-varying wood resources into smaller pieces
 
 ### Solution:
 the Wood app implements an algorithm that manages to do just that!  
-[(check the attached illustrated algorithm explenation)](wood-%20explanation.pdf).
+[check the attached illustrated algorithm explenation](wood-%20explanation.pdf).
 
 #### The "long-run" toggle button:
 
-Off- tries to find a solution that uses as little valuable wood resources as possible.  
-On- tries to find a solution that will allow only efficient divisions at the cost of more valuable wood resources.  
+Off- tries to find a solution that uses as little valuable long wood resources as possible.  
+On- tries to find a solution that will allow only efficient divisions at a probable cost of more valuable long wood resources.  
 
 #### screenshots:
 
