@@ -14,7 +14,6 @@ import static com.gil.wood.nagar.Wood.CUTTING_WASTE;
 
 public class main {
     public static final double NULL_VALUE = 0;
-
     public static void main(String[] args) {
         System.out.println("hello");
         test();
