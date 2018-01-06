@@ -16,4 +16,4 @@ On- tries to find a solution that will allow only efficient divisions at the cos
 
 #### screenshots:
 
-![]({{site.baseurl}}Screenshot_20180106-173503.png) ![]({{site.baseurl}}Screenshot_20180106-173523.png)
+![  ](Screenshot_20180106-173503.png)  ![  ](Screenshot_20180106-173523.png)
