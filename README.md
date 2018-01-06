@@ -16,4 +16,4 @@ On- tries to find a solution that will allow only efficient divisions at a proba
 
 #### screenshots:
 
-![  ](Screenshot_20180106-173502.png)  ![  ](Screenshot_20180106-173523.png)
+![  ](Screenshot_20180106-173503.png)  ![  ](Screenshot_20180106-173523.png)
