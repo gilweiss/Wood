@@ -6,7 +6,7 @@ an android wood division app for a small carpentry business
 it is hard to efficiently divide size-varying wood resources into smaller pieces required for carpentry projects.
 
 ### Solution:
-the Wood app implements an algorithm that manages to do just that!  
+the Wood app implements an algorithm that manages to do just that with a relatively good efficiency.  
 [check the attached illustrated algorithm explanation](wood-%20explanation.pdf)
 
 #### screenshots:
